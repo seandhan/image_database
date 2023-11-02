@@ -6,6 +6,28 @@
 
 ---
 
+# Data Exploration
+
+### Click to view 👇:
+
+[![Data Exploration](https://github.com/seandhan/image_database/blob/main/Solution-Dataset%20Exploration-.svg)]()
+
+### Click to view 👇:
+
+[![DataExp Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Dataset%20Exploration-.svg)]()
+
+----
+
+# Feature Engineering
+### Click to view 👇:
+
+[![Feature Engineering](https://github.com/seandhan/image_database/blob/main/Solution-Feature%20Engineering-.svg)]()
+
+### Click to view 👇:
+
+[![Feature Engineering Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Feature%20engineering-.svg)]()
+
+----
 # EDA
 
 ### Click to view 👇:
@@ -14,27 +36,19 @@
 
 ### Click to view 👇:
 
-[![Solution-Business Questions](https://github.com/seandhan/image_database/blob/main/Solution-Business%20Questions-.svg)]()
+[![EDA Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Exploratory%20Data%20analysis-.svg)]()
 
 ---
 
-# Notebooks
+# Business Questions
 
 ### Click to view 👇:
 
-[![EDA Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Exploratory%20Data%20analysis-.svg)]()
+[![Solution-Business Questions](https://github.com/seandhan/image_database/blob/main/Solution-Business%20Questions-.svg)]()
 
 ### Click to view 👇:
 
 [![Questions Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Business%20Questions-.svg)]()
-
-
----
-# Business Stats
-
-### Click to view 👇:
-
-[![Business_Stats](https://github.com/seandhan/image_database/blob/main/Solution-Business%20Statistics-.svg)]()
 
 ---
 
@@ -42,7 +56,17 @@
 
 ### Click to view 👇:
 
-[![Data_link](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)]()
+[![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)]()
+
+### Click to view 👇:
+
+[![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)]()
+
+
+---
+
+
+---
 
 
 
